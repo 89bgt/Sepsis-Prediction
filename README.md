@@ -233,12 +233,3 @@ def remember(self, state, action, reward, next_state, done):
    - Adaptation progressive de la difficulté pendant l'entraînement
    - Commence par des cas faciles avant de passer aux plus complexes
 
-## Performance
-
-L'objectif de performance est d'atteindre un score F1 > 0.8 sur l'ensemble de test, avec un bon équilibre entre précision et rappel.
-
-## Auteur
-
-[Votre Nom]
-[Votre Institution/Organisation]
-[Année]
